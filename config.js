@@ -8,7 +8,7 @@ module.exports = {
     "Emoji" : {
       "ping": "<:Ping:480404015214231552>"
     },
-    "Icons" : "https://github.com/jathurdev/DiscordBot/tree/master/Icons"
+    "Icons" : "https://raw.githubusercontent.com/jathurdev/DiscordBot/master/Icons"
   },
   "Application" : {
     "ClientId" : "480755380457177109",
