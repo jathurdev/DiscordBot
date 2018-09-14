@@ -1,0 +1,20 @@
+```md
+text
+[cyan][orange]
+# blue
+* orange bullet point
+1. orange number
+/* orange text*
+> grey text
+< yellow >
+< yellow
+multiline >
+<blue >
+<blue yellow>
+<blue yellow = "cyan">
+blue above dashes
+-----------------
+blue above equals signs
+=================
+123
+```
