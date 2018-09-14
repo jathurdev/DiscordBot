@@ -4,7 +4,7 @@ exports.run = async (client,message,args,config,tools) => {
 
     let Embed = new Discord.RichEmbed()
     .setColor(config.Bot.BotColor)
-    .setAuthor("How 2 Markdown","https://raw.githubusercontent.com/Jathur95/DiscordBot/master/Icons/Bot.png",)
+    .setAuthor("How 2 Markdown")
     .setThumbnail("https://raw.githubusercontent.com/Jathur95/DiscordBot/master/Icons/Bot.png")
     .setFooter(`Requested by ${message.author.tag}`,message.author.avatarURL)
     .addField("*Italics*","`*Italics*` or `_Italics_`",true)
